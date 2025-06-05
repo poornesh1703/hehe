@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="exam.pack.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-06-05T02:14:38" hostname="POORNESHH" time="0.003">
+  <properties/>
+  <testcase name="testApp" classname="exam.pack.AppTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
